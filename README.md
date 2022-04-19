@@ -14,5 +14,6 @@ Creación de un blog con PHP, CodeIgniter y Bootstrap.
 * [CodeIgniter 3](https://codeigniter.com/download) - Usado para generar la base del proyecto.
 * [XAMPP](https://www.apachefriends.org/es/index.html) - BBDD y PHP.
 * [VSC](https://code.visualstudio.com/Download) - IDE Visual Studio Code.
+* [Bootstrap](https://startbootstrap.com/template/bare) - Usamos una plantilla vacia.
 
 
